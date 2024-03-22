@@ -16,8 +16,8 @@ namespace DotnetAssignment1.Repositories
         }
 
         /// <summary>
-        /// Retrieves an IoT data record from the database based on the provided key asynchronously.
-        /// </summary>
+        // Retrieves an IoT data record from the database based on the provided key asynchronously.
+       
         public async Task<IotData> GetValueByKeyAsync(string key)
         {
             try
@@ -42,8 +42,8 @@ namespace DotnetAssignment1.Repositories
         }
 
         /// <summary>
-        /// Adds a new key-value pair to the database asynchronously.
-        /// </summary>
+        // Adds a new key-value pair to the database asynchronously.
+    
         public async Task<Response> AddKeyValueAsync(AddKeyValue request)
         {
             try
@@ -76,8 +76,8 @@ namespace DotnetAssignment1.Repositories
 
 
         /// <summary>
-        /// Update key-value pair to the database asynchronously.
-        /// </summary>
+        // Update key-value pair to the database asynchronously.
+       
         public async Task<Response> UpdateValueAsync(string key, string value)
         {
             try
@@ -92,7 +92,7 @@ namespace DotnetAssignment1.Repositories
                 await _dataContext.SaveChangesAsync();
 
                 _logger.LogInformation("Successfully updated value for key: {Key}. New value: {Value}", key, value);
-                return new Response { Message = "Successfully updated", StatusCode = 204 };
+                return new Response { Message = "Successfully updated", StatusCode = 200,Data = keyValue };
             }
             catch (Exception ex)
             {
@@ -103,8 +103,8 @@ namespace DotnetAssignment1.Repositories
         }
 
         /// <summary>
-        /// Delete key-value pair to the database asynchronously.
-        /// </summary>
+        // Delete key-value pair to the database asynchronously.
+    
         public async Task<Response> DeleteKeyValueAsync(string key)
         {
             try

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|c:\\users\\pankaj kumar\\desktop\\assignment\\dotnetassignment1\\dotnetassignment1\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|solutionrelative:repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|c:\\users\\pankaj kumar\\desktop\\assignment\\dotnetassignment1\\dotnetassignment1\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|solutionrelative:controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|c:\\users\\pankaj kumar\\desktop\\assignment\\dotnetassignment1\\dotnetassignment1\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|solutionrelative:repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|c:\\users\\pankaj kumar\\desktop\\assignment\\dotnetassignment1\\dotnetassignment1\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|c:\\users\\pankaj kumar\\desktop\\assignment\\dotnetassignment1\\dotnetassignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|c:\\users\\pankaj kumar\\desktop\\assignment\\dotnetassignment1\\dotnetassignment1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84D1D432-9619-4201-B7CE-3D6D551242B0}|DotnetAssignment1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:34:50.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:21:24.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T09:19:18.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIotDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Repositories\\IIotDataRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IIotDataRepository.cs",
+              "ToolTip": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Repositories\\IIotDataRepository.cs",
+              "RelativeToolTip": "Repositories\\IIotDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:59:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IotDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Repositories\\IotDataRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IotDataRepository.cs",
+              "ToolTip": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Repositories\\IotDataRepository.cs",
+              "RelativeToolTip": "Repositories\\IotDataRepository.cs",
+              "ViewState": "AQIAAFEAAAAAMzMzM/MrwFoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:58:36.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IotDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Controllers\\IotDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IotDataController.cs",
+              "ToolTip": "C:\\Users\\Pankaj Kumar\\Desktop\\Assignment\\DotnetAssignment1\\DotnetAssignment1\\Controllers\\IotDataController.cs",
+              "RelativeToolTip": "Controllers\\IotDataController.cs",
+              "ViewState": "AQIAAEgAAABAzszMzEwtwFIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:58:21.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
